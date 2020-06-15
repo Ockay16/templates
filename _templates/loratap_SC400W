@@ -1,3 +1,8 @@
+Be careful, the V2 might not work with Tasmota
+Just received my Loratap SC400W from Aliexpress and it didn't work with tuya convert.
+After dismantling it, I realized that it comes with a WR3E chip witch is not compatible with Tasmota.
+The bord reads SC400W V2.
+
 ---
 date_added: 2020-03-29
 title: LoraTap SC400W-EU
